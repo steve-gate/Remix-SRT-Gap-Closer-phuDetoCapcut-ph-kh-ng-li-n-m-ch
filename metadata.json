@@ -1,0 +1,8 @@
+{
+  "name": "Remix: SRT Gap Closer phuDetoCapcut phụ đề không liền mạch",
+  "description": "Adjusts subtitle end times to seamlessly flow into the next subtitle\u0027s start time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
